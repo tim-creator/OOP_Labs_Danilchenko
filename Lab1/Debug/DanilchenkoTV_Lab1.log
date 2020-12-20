@@ -1,0 +1,3 @@
+﻿  SetConsole.cpp
+D:\Users\Tim\Documents\Source\repos\DanilchenkoTV_Lab1\SetConsole.cpp(46,7): warning C4101: 'result': unreferenced local variable
+  DanilchenkoTV_Lab1.vcxproj -> D:\Users\Tim\Documents\Source\repos\DanilchenkoTV_Lab1\Debug\DanilchenkoTV_Lab1.exe
